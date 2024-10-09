@@ -1,5 +1,8 @@
 # 3rd-Repo
 The third one
+
+FROM LOCAL REPOSITORY TO REMOTE REPOSITORY
+
 Making changes on my local VS code before staging them with the git add command
 
 First step was to create this Repository on github
@@ -15,4 +18,4 @@ I was having a hard time finding this README on the terminal, but it was hidden 
 
 After finishing the edits and saving them in VS Code, I staged them using the 'git add README.md' comand to add them to the terminal, then I used the 'git status' to view before using the 'git commit -m' command with a "brief description of what I had done.
 
-The final step was to push to the remote repository. For this I used the "git push origin main" command
+The final step was to push to the remote repository. For this I used the "git push origin main" command 
