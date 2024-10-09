@@ -14,3 +14,5 @@ After saving them, I used the terminal to view and stage them.
 I was having a hard time finding this README on the terminal, but it was hidden inside the 'main' branch which was inside the 'master' branch
 
 After finishing the edits and saving them in VS Code, I staged them using the 'git add README.md' comand to add them to the terminal, then I used the 'git status' to view before using the 'git commit -m' command with a "brief description of what I had done.
+
+The final step was to push to the remote repository. For this I used the "git push origin main" command
