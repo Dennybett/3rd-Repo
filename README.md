@@ -31,3 +31,5 @@ From there, I used the "git log" to see the changes I made in the remote reposit
 To compare the local branch and the remote branch, I used the command "git diff origin/main"
 
 After fetching the changes into the terminal, I used the "git pull origin main" command to send the changes to the local repository
+
+To view the repositories directly in the termninal, Use the commands nano README.md and vim README.md to edit and just cat README.md to just view without editing. 
